@@ -87,7 +87,7 @@
   z-index: 2;
   font-size: 100px;
   font-weight: 700;
-  line-height: 115px;
+  line-height: 135px;
   letter-spacing: 30px;
   text-transform: uppercase;
 }
@@ -129,6 +129,7 @@
   font-size: 22px;
   line-height: 28px;
   word-spacing: 18px;
+  
   text-transform: uppercase;
 }
 
